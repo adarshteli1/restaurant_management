@@ -1,6 +1,5 @@
 # Restaurant Management
-
-A restaurant management system built with Go.
+Recently Started A restaurant management system built with Go.
 
 ## Getting Started
 
